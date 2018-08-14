@@ -1,5 +1,5 @@
 package com.array;
-
+//test
 public class DoubleArray {
 	public boolean Find(int target, int [][] array) {
 		int i = array.length-1;
@@ -14,7 +14,9 @@ public class DoubleArray {
 		}
 		return false;
     }
-	
+	public static void test(){
+		
+	}
 	
 	
 	public static void main(String[] args){
